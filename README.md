@@ -1,5 +1,7 @@
 # PulsePenguin
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## About the project
 
 PulsePenguin is a lightweight and easy-to-use open-source audio beat detection application written in Go. It allows users to analyze audio files and accurately detect the beats, making it a useful tool for musicians, DJs, and audio enthusiasts.
